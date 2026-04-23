@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Arkos-menu-preview.gif" width="80%" style="border-radius: 12px;">
 </p>
----
+
 
 # Arkos menu - Responsive Horizontal Menu
 
