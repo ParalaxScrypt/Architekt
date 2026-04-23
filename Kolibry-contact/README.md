@@ -34,6 +34,7 @@ If you would like to access it or learn more, please contact me directly at the 
 * Required fields validation
 * Email format validation
 * Dynamic user feedback
+* Responsive form layout
 
 ---
 
