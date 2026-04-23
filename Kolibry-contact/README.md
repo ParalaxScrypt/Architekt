@@ -1,5 +1,5 @@
 <p align="center">
-<img src="preview-kolibry.gif" width="80%">
+  <img src="preview-kolibry.gif" width="80%" style="border-radius: 12px;">
 </p>
 
 # Kolibry contact Form (jQuery / AJAX / PHP)
