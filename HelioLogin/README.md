@@ -21,7 +21,7 @@ The application is fully functional and can be tested through an **online demo**
 
 A live demo of the project is available online, allowing you to explore all features in real conditions.
 
-👉 *(Add your demo link here)*
+👉 *https://fluctual.fr/paralax/project/HelioLogin/*
 
 ---
 
