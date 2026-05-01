@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="heliologin-preview.png" width="80%" style="border-radius: 12px;">
+</p>
+
 # HelioLogin - Authentication System – Member Area
 
 ## 📌 Overview
