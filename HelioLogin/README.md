@@ -104,4 +104,4 @@ All rights reserved.
 
 This project demonstrates practical implementation of a full authentication workflow using classic web technologies, focusing on usability, validation, and security.
 
----
+
