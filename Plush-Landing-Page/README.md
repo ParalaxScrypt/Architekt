@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="preview-plush.png" width="80%" style="border-radius: 12px;">
+</p>
+
 # PLUSH Restaurant Landing Page
 
 Landing page moderne et responsive pour un restaurant, développée avec **HTML**, **CSS**, **jQuery**, **Vanilla JavaScript** et **PHP**.
