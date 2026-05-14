@@ -68,7 +68,7 @@ Carte Google Maps intégrée avec les coordonnées du restaurant.
 
 Une démonstration du projet est disponible ici :
 
-[Voir la démo du projet](https://fluctual.fr/paralax/project/Plush/?utm_source=chatgpt.com)
+[Voir la démo du projet](https://fluctual.fr/paralax/project/Plush/)
 
 ---
 
